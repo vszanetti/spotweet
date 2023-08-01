@@ -10,8 +10,7 @@ In order for you to get __Spotweet__ to work properly, you must do these things:
 - Have both `tweepy` and `spotipy` installed in your computer via `pip`.
 
 ## Setting up the application
-The only thing to be done in order to run __Spotweet__ is to have access to the your API keys from both Twitter and Spotify. <br/>
-Then, you will paste them over their current placeholder: <br/>
+The only thing to be done in order to run __Spotweet__ is to have access to the your API keys from both Twitter and Spotify and paste them over their current placeholder: <br/>
 
 ```
 # Twitter API keys
