@@ -30,6 +30,6 @@ spotify_redirect_uri = "http://localhost:8080/callback"
 Then, run the code by opening the terminal and typing: `python spotweet.py`.
 
 ## Example
-For demonstratation purposes the application ran every five seconds. By default it checks the player every 30 seconds.
+For demonstratation purposes the application ran every five seconds. By default it checks the player every 30 seconds. <br/>
 ![Screen Shot 2023-08-01 at 16 39 28](https://github.com/vszanetti/spotweet/assets/67712911/6f7b23d8-c4b7-4621-be83-7bb128999c21)
 
